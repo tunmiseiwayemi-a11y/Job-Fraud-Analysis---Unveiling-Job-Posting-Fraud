@@ -27,11 +27,12 @@ Analysis and dashboard/report deliverables documented as completed; model-develo
 
 Portfolio positioning: This report documents the full analytical work of the collaborative project. 
 
-<img width="643" height="286" alt="Dashboard 2" src="https://github.com/user-attachments/assets/ec1c407d-c4de-4886-82a5-c9e02d9572d6" />
+<img width="622" height="341" alt="Dashboard 1" src="https://github.com/user-attachments/assets/2e5c4c90-f50c-44c3-990b-3c0ba759cb09" />
 
 Analysis done on PowerBI
 
-<img width="622" height="341" alt="Dashboard 1" src="https://github.com/user-attachments/assets/2e5c4c90-f50c-44c3-990b-3c0ba759cb09" />
+
+<img width="643" height="286" alt="Dashboard 2" src="https://github.com/user-attachments/assets/ec1c407d-c4de-4886-82a5-c9e02d9572d6" />
 
 Analysis done om Excel
 
