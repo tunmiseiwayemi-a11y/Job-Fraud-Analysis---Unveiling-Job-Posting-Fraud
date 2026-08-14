@@ -1,4 +1,3 @@
-PROFESSIONAL TECHNICAL REPORT
 Job Fraud Analysis
 A Data Analytics Case Study on Online Job Posting Fraud
 https://drive.google.com/drive/folders/1ybEVAepRV6OqDb8WkSS1lGreDp_rZgEr?usp=sharing
